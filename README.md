@@ -2,7 +2,7 @@
 
 This is a TensorFlow implementation of the DRL-SL-based model as described in our paper:
  
-Xujiang Zhao, Shu Hu, Jin-Hee Cho, Feng Chen  [Uncertainty-based Decision Making Using Deep Reinforcement Learning], FUSION (2019)
+Xujiang Zhao, Shu Hu, Jin-Hee Cho, Feng Chen  [Uncertainty-based Decision Making Using Deep Reinforcement Learning], 22nd International Conference on Information Fusion (FUSION 2019)
 
 In this work, we proposed a set of uncertainty-based decision
 rules to infer unknown subjective opinions by leveraging
@@ -66,5 +66,5 @@ You can choose the following model:
 Please cite our paper if you use this code in your own work:
 
 ```
-(To Appear July 2019)
+(To Appear. 22nd International Conference on Information Fusion (FUSION 2019), July 2019)
 ```
