@@ -285,8 +285,8 @@ def get_sample_data():
 
 
 def get_sample_data_s():
-    adj = np.load("/network/rit/lab/ceashpc/xujiang/project/DQN_SL2/dqn_sl/data/sample/sub1_adj.npy")
-    opinion = np.load("/network/rit/lab/ceashpc/xujiang/project/DQN_SL2/dqn_sl/data/sample/sub1_opinion.npy")
+    adj = np.load("../dqn_sl/data/sample/sub1_adj.npy")
+    opinion = np.load("../dqn_sl/data/sample/sub1_opinion.npy")
     opinion = opinion[:, :, :3]
     neigh_ = get_neigh_s(adj)
     neigh = get_neigh(adj)
