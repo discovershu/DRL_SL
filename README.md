@@ -14,7 +14,7 @@ dissonance, to be used as a reward in DRL with the aim of
 identifying the most useful opinion paths that can lead to the
 best decision making on graph network data.
 
-![DRL-SL](example.png){:height="669px" width="433px"}
+![DRL-SL](example.png){:height="50%" width="50%"}
 
 ![DRL-SL](drl_frame.png =250x)
 
